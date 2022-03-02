@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brolookatyou
 - 👀 I’m interested in ... Game console emulation, hacking and game and code development.
-- 🌱 I’m currently learning ... Unity game engine and SunPlus SPG-240 machine code in MAME.
+- 🌱 I’m currently learning ... Unity game engine and SunPlus SPG-240 assembly language in MESSUI
 - 💞️ I’m looking to collaborate on ... VTech V.Smile emulation.
 - 📫 How to reach me ...
 -
