@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brolookatyou
-- 👀 I’m interested in ... Game console emulation, hacking and game and code development.
+- 👀 I’m interested in ... Game console emulation, hacking and game and code development, and glitchy visuals.
 - 🌱 I’m currently learning ... Unity game engine and SunPlus SPG-240 assembly language in MESSUI
 - 💞️ I’m looking to collaborate on ... VTech V.Smile emulation.
 - 📫 How to reach me ...
